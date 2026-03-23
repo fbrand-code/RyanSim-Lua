@@ -5,6 +5,6 @@ RyanSim is a short visual novel game set in the epilogue of VIOLA_ with a charmi
 
 It is built in Lua using LOVE2D as well as uses the Talkies framework.
 
-To play the game, ensure you have Lua and Love2D. Then open the examp.love file.
+To play the game, unzip the folder and select RyanSim.exe.
 
 Built entirely in two days.
